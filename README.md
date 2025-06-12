@@ -10,6 +10,14 @@ This system uses machine learning techniques to analyze trends in cryptocurrency
 
 ---
 
+###🛠️ Technologies Used
+
+- Language: Python
+- Libraries: pandas, numpy – Data handling
+- matplotlib, seaborn, plotly – Visualization
+- scikit-learn – ML modeling
+- streamlit – Web app deployment
+
 ## 🧱 System Modules
 
 ### 1. 📥 Data Ingestion
@@ -70,12 +78,12 @@ This system uses machine learning techniques to analyze trends in cryptocurrency
 └────────────────────┘
 
 
+---
+# Step 1: Install dependencies
+pip install -r requirements.txt
 
-###🛠️ Technologies Used
+# Step 2: Run the Streamlit app
+streamlit run app/streamlit_app.py
 
-##Language: Python
-##Libraries:
-##pandas, numpy – Data handling
-##matplotlib, seaborn, plotly – Visualization
-##scikit-learn – ML modeling
-##streamlit – Web app deployment
+---
+
