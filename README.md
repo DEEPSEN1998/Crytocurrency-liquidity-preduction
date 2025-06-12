@@ -68,3 +68,14 @@ This system uses machine learning techniques to analyze trends in cryptocurrency
 ┌────────────────────┐
 │ Prediction & Report│
 └────────────────────┘
+
+
+
+###🛠️ Technologies Used
+
+##Language: Python
+##Libraries:
+##pandas, numpy – Data handling
+##matplotlib, seaborn, plotly – Visualization
+##scikit-learn – ML modeling
+##streamlit – Web app deployment
